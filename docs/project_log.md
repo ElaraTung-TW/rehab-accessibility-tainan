@@ -299,3 +299,29 @@ Output:
 - These results indicate potential workforce gaps, but should not be interpreted as absence of all rehabilitation services.
 - Next step: compare PT workforce with rehabilitation clinics, hospitals, and older-population indicators.
 - 部分臺南市行政區在官方資料中呈現零登記物理治療師的情形，顯示可能存在明顯的復健人力供給缺口，但仍需結合醫療機構分布與其他服務型態進一步判讀。
+
+## 2026-09-20
+
+### Project MVP Completed
+
+- Finalized core accessibility indicators.
+- Created three project visualizations.
+- Completed a Streamlit prototype dashboard.
+- Added data limitations and district-level summary.
+- Completed project README and GitHub repository.
+- Deployed the dashboard publicly using Streamlit Community Cloud.
+
+### Live Dashboard
+https://rehab-accessibility-tainan.streamlit.app/
+
+### Current Status
+The graduate application MVP is complete.
+
+The project is intentionally frozen at the current scope. Future extensions may include:
+- physical therapy clinic data
+- travel-time accessibility
+- actual service utilization
+- additional demand indicators
+- SQL-based analysis
+
+These extensions are not required for the current graduate application version.
