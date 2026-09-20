@@ -1,5 +1,6 @@
 # Rehabilitation Service Accessibility and Resource Gap Analysis
 ## A Tainan Case Study
+**Live Dashboard:** https://rehab-accessibility-tainan.streamlit.app/
 
 This project explores district-level differences in rehabilitation workforce
 and medical facility availability across the 37 administrative districts of
@@ -194,8 +195,3 @@ A Streamlit prototype dashboard was developed to present:
 - Rehabilitation medical facility availability
 - Older-population share versus PT availability
 - District-level summary data
-
-Run locally with:
-
-```bash
-python -m streamlit run dashboard/app.py
