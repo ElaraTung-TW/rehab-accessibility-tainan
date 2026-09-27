@@ -1,5 +1,6 @@
-# Rehabilitation Service Accessibility and Resource Gap Analysis
-## A Tainan Case Study
+# 臺南市復健服務資源供給與區域差異分析
+Regional Disparities in Rehabilitation Service Resource Supply: A Tainan Case Study
+
 **Live Dashboard:** https://rehab-accessibility-tainan.streamlit.app/
 
 This project explores district-level differences in rehabilitation workforce

@@ -15,7 +15,7 @@ FACILITY_FIG_PATH = (
 
 
 st.set_page_config(
-    page_title="Tainan Rehabilitation Accessibility",
+    page_title="Regional Disparities in Rehabilitation Service Resource Supply: Tainan",
     layout="wide"
 )
 
@@ -93,8 +93,8 @@ st.markdown(
 )
 
 
-st.title("Rehabilitation Service Accessibility")
-st.subheader("Resource Gap Analysis: A Tainan Case Study")
+st.title("Regional Disparities in Rehabilitation Service Resource Supply")
+st.subheader("A Tainan Case Study")
 
 st.write(
     """
